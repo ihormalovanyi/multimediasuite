@@ -1,5 +1,5 @@
 ## About Me:
-📱 iOS Software Engineer since 2014<br>💪 Working in AMO on the Mad Muscles app<br>🤖 WWDC 2018/2019 Attendee<br>👨🏻‍💻 Swift/Objective-C <br>🇺🇦 From Ukraine
+- iOS Software Engineer since 2014<br>- Working in AMO on the Mad Muscles app<br>- WWDC 2018/2019 Attendee<br>👨🏻‍💻 Swift/Objective-C <br>🇺- From Ukraine
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/multimediasuite) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ihorpro) 
 
